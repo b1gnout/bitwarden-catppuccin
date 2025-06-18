@@ -1,5 +1,5 @@
 # bitwarden-catppuccin
-trash script to jankly change bitwarden theme
+trash script to jankly change bitwarden theme to something that resembles glorious catppuccin
 
 ## To use
 ```bash
@@ -18,3 +18,7 @@ debian .deb path:
 ```
 
 Can't be bothered to update for any other paths, find it yourself
+
+Mocha:
+
+![Untitled](https://github.com/user-attachments/assets/484f6b85-1fc5-4843-9b68-51cf239f0422)
